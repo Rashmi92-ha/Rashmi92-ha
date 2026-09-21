@@ -1,12 +1,12 @@
- ### Hi there, I'm Rashmi K S 👋
+### Hi there, I'm Rashmi K S 👋
 
 🅰️ Angular Developer | 💻 TypeScript & JavaScript | 🚀 Open to new opportunities
 📍 Bangalore, Karnataka
 
-- 🔭 Currently working on **Employee Management System** — full-stack app (Angular frontend + Node/Express/MongoDB backend)
-- 🌱 Always sharpening my Angular & TypeScript skills
+- 🔭 Focused on building production-grade Angular apps — reusable components, RxJS data flows, and performance optimization
+- 🌱 Deepening my full-stack skills — currently in a Java & MERN stack program (GUVI x HCL) — while continuing to sharpen Angular & TypeScript
 - 💼 Actively looking for a frontend/full-stack developer role
-- 📫 Reach me here on GitHub or check out my projects below
+- 📫 Reach me here on GitHub, [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle), or check out my projects below
 
 ---
 
@@ -28,7 +28,7 @@
 
 A full-stack employee management app with secure JWT authentication and complete CRUD operations.
 
-- 🔹 [mini-project](https://github.com/Rashmi92-ha/mini-project) — Angular frontend ([Live Demo](https://mini-project.vercel.app))
+- 🔹 [mini-project](https://github.com/Rashmi92-ha/mini-project) — Angular frontend ([Live Demo](https://mini-project-iota-rosy.vercel.app))
 - 🔹 [mini-project-backend](https://github.com/Rashmi92-ha/mini-project-backend) — Node/Express/MongoDB REST API with JWT auth ([Live API](https://mini-project-backend-v057.onrender.com))
 
 ---
@@ -37,3 +37,4 @@ A full-stack employee management app with secure JWT authentication and complete
 
 ![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashmi92-ha&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi92-ha&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rashmi92-ha&theme=default)
