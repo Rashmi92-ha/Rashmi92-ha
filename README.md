@@ -1,7 +1,5 @@
 ### Hi there, I'm Rashmi K S 👋
 
-### Hi there, I'm Rashmi K S 👋
-
 💻 Angular Developer | TypeScript | JavaScript | Java
 🚀 Open to Frontend & Full-Stack Developer Opportunities
 📍 Bangalore, Karnataka
