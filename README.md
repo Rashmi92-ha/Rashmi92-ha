@@ -35,6 +35,4 @@ A full-stack employee management app with secure JWT authentication and complete
 
 ### 📊 GitHub Stats
 
-![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashmi92-ha&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi92-ha&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Rashmi92-ha&theme=default)
