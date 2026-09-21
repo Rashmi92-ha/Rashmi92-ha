@@ -1,12 +1,15 @@
 ### Hi there, I'm Rashmi K S 👋
 
-🅰️ Angular Developer | 💻 TypeScript & JavaScript | 🚀 Open to new opportunities
+### Hi there, I'm Rashmi K S 👋
+
+💻 Angular Developer | TypeScript | JavaScript | Java
+🚀 Open to Frontend & Full-Stack Developer Opportunities
 📍 Bangalore, Karnataka
 
 - 🔭 Focused on building production-grade Angular apps — reusable components, RxJS data flows, and performance optimization
 - 🌱 Deepening my full-stack skills — currently in a Java & MERN stack program (GUVI x HCL) — while continuing to sharpen Angular & TypeScript
 - 💼 Actively looking for a frontend/full-stack developer role
-- 📫 Reach me here on GitHub, [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle), or check out my projects below
+- 📫 Reach me here on GitHub, [LinkedIn](https://www.linkedin.com/in/rashmiks-dev/), or check out my projects below
 
 ---
 
@@ -27,13 +30,29 @@
 
 ### 📌 Featured Project — Employee Management System
 
-A full-stack employee management app with secure JWT authentication and complete CRUD operations.
+A full-stack employee management application built using Angular,
+Node.js, Express, and MongoDB.
 
+#### Key Features
+- JWT Authentication
+- Employee CRUD Operations
+- Angular Reactive Forms
+- REST API Integration
+- MongoDB Database
 - 🔹 [mini-project](https://github.com/Rashmi92-ha/mini-project) — Angular frontend ([Live Demo](https://mini-project-iota-rosy.vercel.app))
 - 🔹 [mini-project-backend](https://github.com/Rashmi92-ha/mini-project-backend) — Node/Express/MongoDB REST API with JWT auth ([Live API](https://mini-project-backend-v057.onrender.com))
 
 ---
+### 📌 Java DSA Practice
 
+- Arrays and Strings
+- Sorting and Searching
+- Linked Lists
+- Stack and Queue
+- Recursion
+- Dynamic Programming
+
+---
 ### 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Rashmi92-ha&theme=default)
