@@ -57,7 +57,7 @@ Node.js, Express, and MongoDB.
 
 ### 📌 Snapshot
 
-<img width="478" height="420" alt="image" src="https://github.com/user-attachments/assets/36515c22-f627-4a13-afae-ddbebbc69cba" />
+<img width="338" height="356" alt="image" src="https://github.com/user-attachments/assets/0ecade97-40f4-44fd-b145-bb949295dd8d" />
 
 
 - 9 public repositories
