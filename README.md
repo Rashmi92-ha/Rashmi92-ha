@@ -57,6 +57,9 @@ Node.js, Express, and MongoDB.
 
 ### 📌 Snapshot
 
+<img width="478" height="420" alt="image" src="https://github.com/user-attachments/assets/36515c22-f627-4a13-afae-ddbebbc69cba" />
+
+
 - 9 public repositories
 - Actively building full-stack projects — Angular frontend + Node/Express/MongoDB backend
 - Currently expanding into Java & the MERN stack (GUVI x HCL)
