@@ -53,6 +53,24 @@ graph LR
 
 <br>
 
+## 🗺️ Learning Roadmap
+
+```mermaid
+graph LR
+    A[Angular / TypeScript / RxJS] --> B[Java & OOP]
+    B --> C[SQL / MySQL]
+    C --> D[MERN Stack]
+    D --> E[Full-Stack Developer]
+
+    style A fill:#DD0031,color:#fff
+    style B fill:#007396,color:#fff
+    style C fill:#4479A1,color:#fff
+    style D fill:#47A248,color:#fff
+    style E fill:#333,color:#fff
+```
+
+<br>
+
 ## 📌 Featured Projects
 
 ### 📊 Employee Management System (Full-Stack MEAN App)
@@ -85,7 +103,9 @@ graph TD
 
 ## 📊 GitHub Analytics
 
-<p align="left"> <img src="https://streak-stats.demolab.com/?user=Rashmi92-ha&theme=default" alt="GitHub Streak" height="180" /> </p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=Rashmi92-ha&theme=default" alt="GitHub Streak" height="180" />
+</p>
 
 ### 📌 Summary Snapshot
 - 📦 Maintaining **9+ active public repositories** hosting varied frontend and full-stack modules.
