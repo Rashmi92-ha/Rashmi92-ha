@@ -99,6 +99,19 @@ graph TD
 - 🔹 **Key Implementations:** Engineered utilizing strict Object-Oriented Programming (OOP) methodologies, the Java Collections Framework (`ArrayList`), and native File I/O pipelines to persist state data reliably across separate program lifecycles.
 - 📁 **Repository:** [StudentManagementSystem](https://github.com/Rashmi92-ha/StudentManagementSystem)
 
+### 🗄️ Library Management Database (MySQL)
+A relational database that manages books, users, and borrowing transactions, with stored procedures for issuing and returning books and views for tracking overdue items and fines.
+
+```mermaid
+graph LR
+    U[(Users)] --> T[(Transactions)]
+    B[(Books)] --> T
+    P[issue_book / return_book] --> T
+    P --> B
+```
+- 🔹 **Key Implementations:** Designed three related tables with foreign keys and CHECK constraints, wrote stored procedures using transactions and row locking to keep copy counts accurate, and built tracking queries, views, and an index for overdue books and fines.
+- 📁 **Repository:** [library-management-db](https://github.com/Rashmi92-ha/library-management-db)
+
 <br>
 
 ## 📊 GitHub Analytics
