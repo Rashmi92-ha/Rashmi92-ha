@@ -85,10 +85,7 @@ graph TD
 
 ## 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashmi92-ha&show_icons=true&theme=default" alt="Rashmi's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi92-ha&layout=compact" alt="Top Languages" height="180" />
-</p>
+<p align="left"> <img src="https://streak-stats.demolab.com/?user=Rashmi92-ha&theme=default" alt="GitHub Streak" height="180" /> </p>
 
 ### 📌 Summary Snapshot
 - 📦 Maintaining **9+ active public repositories** hosting varied frontend and full-stack modules.
