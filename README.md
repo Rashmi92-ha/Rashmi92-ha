@@ -3,11 +3,11 @@
 🅰️ Angular Developer | 💻 TypeScript, JavaScript & Java | 🚀 Open to new opportunities
 📍 Bangalore, Karnataka
 
- - 💼 **2+ years of professional experience** building Angular (v14–18) applications with TypeScript and RxJS in a client project environment.
-- 🔭 **Focused** on building production-grade Angular applications — specializing in reusable components, custom directives, RxJS data streams, and state optimization.
-- 🌱 **Expanding Full-Stack Proficiency** — currently mastering Java, SQL, and the MERN stack ecosystem (GUVI x HCL) while deepening my foundational expertise in Angular and TypeScript (MEAN stack).
+- 💼 **2+ years of professional experience** building Angular (v14-18) applications with TypeScript and RxJS in a client project environment.
+- 🔭 **Strengths:** Reusable components, custom directives, RxJS data streams, and state optimization.
+- 🌱 **Currently learning:** Java, SQL, and the MERN stack (GUVI x HCL), alongside deepening my Angular and TypeScript (MEAN stack) skills.
 - 🎯 **Looking for:** Angular / Frontend Developer roles (open to full-stack) in Bangalore or remote.
-- 📫 **Connect with me** via [LinkedIn](https://www.linkedin.com/in/rashmiks-dev/) or explore my featured engineering work below.
+- 📫 **Connect with me** via [LinkedIn](https://www.linkedin.com/in/rashmiks-dev/) or explore my featured work below.
 
 <br>
 
