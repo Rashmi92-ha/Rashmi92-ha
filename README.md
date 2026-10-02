@@ -125,6 +125,8 @@ graph LR
 </p>
 
 ### 📌 Summary Snapshot
-- 📦 Maintaining **9+ active public repositories** hosting varied frontend and full-stack modules.
-- ⚙️ Actively creating custom full-stack solutions using **Angular (MEAN stack)** architectures.
-- 📈 Continuing to widen technical scope by onboarding **Java, SQL foundations, and the MERN stack**.
+- 📦 **9+ public repositories** covering Angular, Java, MySQL and Node.js
+- ⚙️ **MEAN stack app** with JWT authentication, route guards, an HTTP interceptor and a responsive data dashboard
+- ☕ **Java CLI app** built with OOP, the Collections Framework and File I/O persistence
+- 🗄️ **MySQL database** with foreign keys, stored procedures, views and an index for overdue tracking
+- 📈 **Next up:** the MERN stack (React) through GUVI x HCL
