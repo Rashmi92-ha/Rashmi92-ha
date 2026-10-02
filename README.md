@@ -87,6 +87,8 @@ graph LR
 - 🔹 **Backend Features:** Built a modular RESTful API architecture using Express.
 - 📁 **Client Repository:** [mini-project](https://github.com/Rashmi92-ha/mini-project) | 🌐 [Live App Demo](https://mini-project-iota-rosy.vercel.app)
 - 📁 **Server Repository:** [mini-project-backend](https://github.com/Rashmi92-ha/mini-project-backend) | 🌐 [Live API Endpoint](https://mini-project-backend-v057.onrender.com)
+> ⏳ **Note:** The backend runs on a free hosting tier, so the first request after inactivity may take 30–60 seconds to respond. Please wait for the first load to complete.
+> 🔑 **Demo login:** `demo@example.com` / `Demo@123`
 
 ### ☕ Student Management System (CLI Program)
 A scalable, console-driven Java application built entirely around robust architectural foundations to manage student records efficiently.
