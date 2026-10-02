@@ -128,6 +128,7 @@ graph LR
   <a href="https://mini-project-iota-rosy.vercel.app">
     <img src="https://img.shields.io/website?url=https%3A%2F%2Fmini-project-iota-rosy.vercel.app&up_message=online&down_message=offline&label=live%20demo&style=for-the-badge" alt="Live Demo Status" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployed on Vercel" />
 </p>
 
