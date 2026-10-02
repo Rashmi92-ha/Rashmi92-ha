@@ -1,6 +1,6 @@
 # Hi there, I'm Rashmi K S 👋
 
-🅰️ Angular Developer | 💻 TypeScript, JavaScript & Java | 🚀 Open to new opportunities
+🅰️ Angular Developer | 💼 **2+ years of professional experience** building Angular (v14–18) applications with TypeScript and RxJS in a client project environment. | 💻 TypeScript, JavaScript & Java | 🚀 Open to new opportunities
 📍 Bangalore, Karnataka
 
 - 🔭 **Focused** on building production-grade Angular applications — specializing in reusable components, custom directives, RxJS data streams, and state optimization.
