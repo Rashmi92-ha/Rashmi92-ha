@@ -38,7 +38,7 @@ graph LR
     A --> D[Database]
     A --> E[Tools]
 
-    B --> B1[Angular 14-18]
+    B --> B1[Angular 14-20]
     B --> B2[TypeScript / RxJS]
     B --> B3[HTML5 / CSS3]
 
