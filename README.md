@@ -124,6 +124,13 @@ graph LR
   <img src="https://streak-stats.demolab.com/?user=Rashmi92-ha&theme=default" alt="GitHub Streak" height="180" />
 </p>
 
+<p align="left">
+  <a href="https://mini-project-iota-rosy.vercel.app">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fmini-project-iota-rosy.vercel.app&up_message=online&down_message=offline&label=live%20demo&style=for-the-badge" alt="Live Demo Status" />
+  </a>
+  <img src="https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployed on Vercel" />
+</p>
+
 ### 📌 Summary Snapshot
 - 📦 **9+ public repositories** covering Angular, Java, MySQL and Node.js
 - ⚙️ **MEAN stack app** with JWT authentication, route guards, an HTTP interceptor and a responsive data dashboard
