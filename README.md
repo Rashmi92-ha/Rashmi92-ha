@@ -1,4 +1,4 @@
-# Hi there, I'm Rashmi K S 👋
+# Hi there, I'm Rashmi KS 👋
 
 🅰️ Angular Developer | 💻 TypeScript, JavaScript & Java | 🚀 Open to new opportunities
 📍 Bangalore, Karnataka
