@@ -3,7 +3,7 @@
 🅰️ Angular Developer | 💻 TypeScript, JavaScript & Java | 🚀 Open to new opportunities
 📍 Bangalore, Karnataka
 
-- 💼 **2+ years of professional experience** building Angular (v14-18) applications with TypeScript and RxJS in a client project environment.
+- 💼 **2+ years of professional experience** building Angular (v18-20) applications with TypeScript and RxJS in a client project environment.
 - 🔭 **Strengths:** Reusable components, custom directives, RxJS data streams, and state optimization.
 - 🌱 **Currently learning:** Java, SQL, and the MERN stack (GUVI x HCL), alongside deepening my Angular and TypeScript (MEAN stack) skills.
 - 🎯 **Looking for:** Angular / Frontend Developer roles (open to full-stack) in Bangalore or remote.
