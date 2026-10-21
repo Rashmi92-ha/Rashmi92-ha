@@ -1,13 +1,15 @@
 # Hi there, I'm Rashmi KS 👋
 
-🅰️ Angular Developer | 💻 TypeScript, JavaScript & Java | 🚀 Open to new opportunities
-📍 Bangalore, Karnataka
+🅰️ **Angular Developer | TypeScript | JavaScript | RxJS**
+📍 Bangalore, Karnataka | 🚀 Open to Angular / Frontend / Full-Stack opportunities
 
-- 💼 **2+ years of professional experience** building Angular (v18-20) applications with TypeScript and RxJS in a client project environment.
-- 🔭 **Strengths:** Reusable components, custom directives, RxJS data streams, and state optimization.
-- 🌱 **Currently learning:** Java, SQL, and the MERN stack (GUVI x HCL), alongside deepening my Angular and TypeScript (MEAN stack) skills.
-- 🎯 **Looking for:** Angular / Frontend Developer roles (open to full-stack) in Bangalore or remote.
-- 📫 **Connect with me** via [LinkedIn](https://www.linkedin.com/in/rashmiks-dev/) or explore my featured work below.
+- 💼 2+ years of professional experience building Angular applications in a client project environment.
+- 🔭 Experienced in reusable components, custom directives, RxJS data streams, REST API integration, and performance optimization.
+- 🛠️ Building full-stack applications using Angular, Node.js, Express.js, and MongoDB.
+- 🤖 Integrated Google's Gemini API to generate AI-powered dashboard explanations in my Employee Management System.
+- 🌱 Currently learning Java, SQL, and the MERN stack through the GUVI x HCL program.
+- 🎯 Looking for Angular / Frontend Developer roles, with opportunities to grow into full-stack development.
+- 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/rashmiks-dev/)
 
 <br>
 
@@ -25,6 +27,7 @@
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
 <br>
@@ -74,20 +77,30 @@ graph LR
 
 ## 📌 Featured Projects
 
-### 📊 Employee Management System (Full-Stack MEAN App)
-A robust, full-stack employee management platform featuring secure token-based authentication and a responsive data dashboard.
+### 📊 Employee Management System — Full-Stack Application with AI
 
-```mermaid
-graph LR
-    U[User] --> F[Angular Frontend]
-    F -- REST API / JWT --> S[Node + Express Backend]
-    S --> DB[(MongoDB)]
-```
-- 🔹 **Frontend Features:** Configured secure client-side Route Guards, dynamic data tables, and structured an HTTP Interceptor workflow to seamlessly attach JWT tokens across outgoing requests.
-- 🔹 **Backend Features:** Built a modular RESTful API architecture using Express.
-- 📁 **Client Repository:** [mini-project](https://github.com/Rashmi92-ha/mini-project) | 🌐 [Live App Demo](https://mini-project-iota-rosy.vercel.app)
-- 📁 **Server Repository:** [mini-project-backend](https://github.com/Rashmi92-ha/mini-project-backend) | 🌐 [Live API Endpoint](https://mini-project-backend-v057.onrender.com)
-> ⏳ **Note:** The backend runs on a free hosting tier, so the first request after inactivity may take 30–60 seconds to respond. Please wait for the first load to complete.
+A deployed employee management platform built with Angular, Node.js, Express.js, and MongoDB Atlas, featuring authentication, employee and department management, invoice summaries, and AI-powered dashboard explanations.
+
+**Key Features**
+- 🔐 JWT-based authentication, route guards, and HTTP interceptor for attaching authentication tokens.
+- 👥 Employee and department management with dashboard summaries.
+- 🧾 Invoice management with paid, pending, and overdue invoice statistics.
+- 🤖 Gemini API integration for natural-language dashboard explanations, with rule-based insights as a fallback.
+- 🏢 Tenant-scoped backend data access for separating tenant data.
+- ☁️ Deployed Angular frontend on Vercel and Node.js backend on Render.
+
+**Architecture**
+
+Angular → REST API → Node.js / Express → MongoDB Atlas  
+Node.js → Gemini API for AI-generated explanations
+
+**Links**
+- 💻 [Frontend Repository](https://github.com/Rashmi92-ha/mini-project)
+- ⚙️ [Backend Repository](https://github.com/Rashmi92-ha/mini-project-backend)
+- 🌐 [Live Application](https://mini-project-iota-rosy.vercel.app)
+- 🔌 [Backend Service](https://mini-project-backend-v057.onrender.com)
+
+**Note:** The backend uses free-tier hosting, so the first request after inactivity may take time to respond.
 
 > 🔑 **Demo login:** `demo@example.com` / `Demo@123`
 
