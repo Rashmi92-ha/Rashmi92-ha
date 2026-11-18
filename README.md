@@ -6,6 +6,7 @@
 - 💼 2+ years of professional experience building Angular applications in a client project environment.
 - 🔭 Experienced in reusable components, custom directives, RxJS data streams, REST API integration, and performance optimization.
 - 🛠️ Building full-stack applications using Angular, Node.js, Express.js, and MongoDB.
+- ⚛️ Building React projects (Smart Expense Tracker) alongside vanilla JavaScript apps.
 - 🤖 Integrated Google's Gemini API to generate AI-powered dashboard explanations in my Employee Management System.
 - 🌱 Currently learning Java, SQL, and the MERN stack through the GUVI x HCL program.
 - 🎯 Looking for Angular / Frontend Developer roles, with opportunities to grow into full-stack development.
@@ -19,6 +20,8 @@
 <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -44,6 +47,7 @@ graph LR
     B --> B1[Angular 14-20]
     B --> B2[TypeScript / RxJS]
     B --> B3[HTML5 / CSS3]
+    B --> B4[React / Tailwind CSS]
 
     C --> C1[Java / OOP]
     C --> C2[Node.js / Express]
@@ -104,6 +108,28 @@ Node.js → Gemini API for AI-generated explanations
 
 > 🔑 **Demo login:** `demo@example.com` / `Demo@123`
 
+### 💸 Smart Expense Tracker (React + Tailwind CSS) — In Progress
+A responsive expense dashboard with summary cards for Total, Food, Travel, and Bills & Others, and an Add Expense button.
+
+- 🔹 **Key Concepts:** React props, state, and event handling, with expense data shared between components so totals update as expenses are added.
+<!-- Add the repository link here once the project is pushed -->
+
+### ✅ Personal Productivity Dashboard (HTML + CSS + JavaScript)
+A profile and task manager built with vanilla JavaScript, organised into ES modules.
+
+```mermaid
+graph TD
+    Main[main.js] --> Storage[storage.js]
+    Main --> Profile[profile.js]
+    Main --> Tasks[tasks.js]
+    Main --> JSONIO[jsonIO.js]
+    Main --> UI[ui.js]
+    Storage -- localStorage --> Data[(profile + tasks)]
+    Storage -- sessionStorage --> Session[(filter + draft)]
+```
+- 🔹 **Key Implementations:** Persisted tasks and profile in `localStorage`, kept temporary session data in `sessionStorage`, supported JSON export and import with validation, and rendered nested user data safely using optional chaining and `textContent`.
+<!-- Add the repository and live demo links here once deployed -->
+
 ### ☕ Student Management System (CLI Program)
 A scalable, console-driven Java application built entirely around robust architectural foundations to manage student records efficiently.
 
@@ -143,6 +169,8 @@ graph LR
 ### 📌 Summary Snapshot
 - 📦 **9+ public repositories** covering Angular, Java, MySQL and Node.js
 - ⚙️ **MEAN stack app** with JWT authentication, route guards, an HTTP interceptor and a responsive data dashboard
+- ⚛️ **React + Tailwind expense dashboard** (in progress) built around props, state and event handling
+- 🧩 **Vanilla JavaScript productivity app** with ES modules, browser storage and JSON import/export
 - ☕ **Java CLI app** built with OOP, the Collections Framework and File I/O persistence
 - 🗄️ **MySQL database** with foreign keys, stored procedures, views and an index for overdue tracking
 - 📈 **Next up:** the MERN stack (React) through GUVI x HCL
