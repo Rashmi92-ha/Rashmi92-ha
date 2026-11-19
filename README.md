@@ -11,7 +11,7 @@
 - 🌱 Currently learning Java, SQL, and the MERN stack through the GUVI x HCL program.
 - 🎯 Looking for Angular / Frontend Developer roles, with opportunities to grow into full-stack development.
 - 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/rashmiks-dev/)
-
+ 
 <br>
 
 ## 🛠️ Tech Stack
