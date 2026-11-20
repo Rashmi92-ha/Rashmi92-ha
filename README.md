@@ -108,12 +108,14 @@ Node.js → Gemini API for AI-generated explanations
 
 > 🔑 **Demo login:** `demo@example.com` / `Demo@123`
 
-### 💸 Smart Expense Tracker (React + Tailwind CSS) — In Progress
+### 💸 Smart Expense Tracker (React + Tailwind CSS) 
 A responsive expense dashboard with summary cards for Total, Food, Travel, and Bills & Others, and an Add Expense button.
 
 - 🔹 **Key Concepts:** React props, state, and event handling, with expense data shared between components so totals update as expenses are added.
 <!-- Add the repository link here once the project is pushed -->
 
+**Links**
+- 🌐 (https://silver-cannoli-c16a95.netlify.app/)
 ### ✅ Personal Productivity Dashboard (HTML + CSS + JavaScript)
 A profile and task manager built with vanilla JavaScript, organised into ES modules.
 
